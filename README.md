@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys building things with **Python** and **Node.js**.
+I'm a developer who enjoys building things with **Python**, **Node.js**, and **C++**.
 I like creating bots, web applications, and automation tools.
 
 ## 🚀 What I Do
@@ -10,11 +10,12 @@ I like creating bots, web applications, and automation tools.
 * 🤖 Bot development
 * 🌐 Web development
 * ⚡ Automation tools
+* 🎮 Game cheat development
 
 ## 🧰 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,js,html,css,git,github,vscode" />
 </p>
 
 ## 📚 Currently Learning
@@ -27,11 +28,6 @@ I like creating bots, web applications, and automation tools.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hejkatupianka\&show_icons=true)
 
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hejkatupianka\&layout=compact)
-
 ## 📫 Contact
 
-* GitHub: https://github.com/hejkatupianka
-
+Discord: @bliczek
